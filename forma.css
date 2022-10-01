@@ -1,0 +1,53 @@
+<style>
+body {
+}
+header {
+text-align:center;
+text-indent:30px;
+position: fixed;
+background: #20B2AA;
+height: 80px;
+width: 100%;
+top:0;
+left:0;
+}
+section {
+float:right;
+background: #32CD32;
+color: #d7d7d7;
+width: 25%;
+height: 80px;
+top:0;
+right:0;
+}
+section1 {
+float:right;
+background: #FF0000;
+color: blue;
+width: 25%;
+height: 80px;
+top:0;
+right:0;
+}
+footer {
+text-align:center;
+text-indent:30px;
+position: absolute;
+background: #7B68EE;
+height: 10%;
+width: 100%;
+bottom: 0;
+left:0;
+}
+cntr {
+
+text-align:center;
+text-indent:30px;
+position: absolute;
+background: orange;
+height: 90%;
+width: 100%;
+left: 0;
+top: 80px;
+}
+</style>
